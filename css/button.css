@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+button {
+    cursor: pointer;
+    border-radius: 0.3rem;
+    border-style: none;
+    font-size: 1.75rem;
+    font-family: 'Poppins', sans-serif;
+    padding: 0.5rem 1rem;
+    margin: 1.5rem 1rem;
+    background-color: #ffffff;
+    color: white;
+}
+
+.btn1 {
+    background-color: #FF0000;
+    -webkit-filter: drop-shadow(8px 8px 1px #920000);
+    filter: drop-shadow(8px 8px 1px #920000);
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+}
+
+.btn1:hover {
+    -webkit-filter: drop-shadow(1px 1px 1px #920000);
+    filter: drop-shadow(1px 1px 1px #920000);
+}
+
+.btn2 {
+    background-color: #1DA1F2;
+    -webkit-filter: drop-shadow(8px 8px 1px #007cc9);
+    filter: drop-shadow(8px 8px 1px #007cc9);
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+}
+
+.btn2:hover {
+    -webkit-filter: drop-shadow(1px 1px 1px #007cc9);
+    filter: drop-shadow(1px 1px 1px #007cc9);
+}
