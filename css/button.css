@@ -37,3 +37,16 @@ button {
     -webkit-filter: drop-shadow(1px 1px 1px #007cc9);
     filter: drop-shadow(1px 1px 1px #007cc9);
 }
+
+.btn3 {
+    background-color: #7289d9;
+    -webkit-filter: drop-shadow(8px 8px 1px #5270da);
+    filter: drop-shadow(8px 8px 1px #5270da);
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+}
+
+.btn3:hover {
+    -webkit-filter: drop-shadow(1px 1px 1px #5270da);
+    filter: drop-shadow(1px 1px 1px #5270da);
+}
